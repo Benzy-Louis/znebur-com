@@ -5,7 +5,7 @@ en-gb:
   fa-logo: video-camera
 - name: Research
   description: "Applying my background knowledge in computational physics in the field of
-  climate change, physical oceanography, geomatics, image processing and acoustic engineering."
+  climate change, physical oceanography, and image processing."
   fa-logo: search
 - name: Development
   description:  "Developing workflows, processing pipelines, visualisations,
